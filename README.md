@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/img/cover.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/img/cover.jpeg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/blob/master/img/cover.jpeg">
  <img alt="cover_jld" src="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/img/cover.jpeg">
 </picture>
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
