@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
- <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
- <img alt="cover_jld" src="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/blob/master/img/cover.jpeg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/img/cover.jpeg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/img/cover.jpeg">
+ <img alt="cover_jld" src="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/img/cover.jpeg">
 </picture>
