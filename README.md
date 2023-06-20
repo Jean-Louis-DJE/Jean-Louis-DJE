@@ -21,12 +21,14 @@ Here are some ideas to get you started:
  <img alt="cover_jld" src="https://github.com/Jean-Louis-DJE/Jean-Louis-DJE/blob/master/img/cover.png">
 </picture>
 <details>
-<summary>My top languages</summary>
+<!--
+ <summary>MY PROJECTS</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+| Rank | Project's name |Project's description|Date started|Duration|Location|
+|-----:|----------------|---------------------|---------------------|--------|
+|     1|      ||||
+|     2|          ||||
+|     3|             ||||
 
 </details>
+-->
