@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 | Rank | Project's name |Project's description|Date started|Duration|Location|
 |-----:|----------------|---------------------|---------------------|--------|
-|     1|      ||||
-|     2|          ||||
-|     3|             ||||
+|     1|                |                     |                     |        |
+|     2|                |                     |                     |        |
+|     3|                |                     |                     |        |
 
 </details>
 -->
